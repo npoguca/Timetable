@@ -3,7 +3,7 @@
   <Student>
     <name>Nikita_Pogutsa</name>
     <absentCount>4</absentCount>
-    <presentCount>43</presentCount>
+    <presentCount>45</presentCount>
     <rainCheck>
       <dateTime>2016-08-10T00:00:00</dateTime>
     </rainCheck>
@@ -33,7 +33,7 @@
   <Student>
     <name>Nikita_Horev</name>
     <absentCount>3</absentCount>
-    <presentCount>17</presentCount>
+    <presentCount>18</presentCount>
     <rainCheck>
       <dateTime>2016-08-10T00:00:00</dateTime>
       <dateTime>2016-08-15T00:00:00</dateTime>
@@ -101,7 +101,7 @@
   <Student>
     <name>Max</name>
     <absentCount>3</absentCount>
-    <presentCount>17</presentCount>
+    <presentCount>18</presentCount>
     <rainCheck>
       <dateTime>2016-08-08T00:00:00</dateTime>
     </rainCheck>
@@ -131,7 +131,7 @@
   <Student>
     <name>Lavr</name>
     <absentCount>5</absentCount>
-    <presentCount>41</presentCount>
+    <presentCount>43</presentCount>
     <rainCheck>
       <dateTime>2016-08-08T00:00:00</dateTime>
     </rainCheck>
