@@ -1,0 +1,761 @@
+<?xml version="1.0"?>
+<ArrayOfDay xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Day>
+    <dayOfWeek>Tuesday</dayOfWeek>
+    <date>2016-08-12T00:00:00</date>
+    <attendants>
+      <Student>
+        <name>Nikita_Pogutsa</name>
+        <absentCount>4</absentCount>
+        <presentCount>21</presentCount>
+        <rainCheck>
+          <dateTime>2016-08-10T00:00:00</dateTime>
+        </rainCheck>
+        <attendance>
+          <Attendance>
+            <dayOfWeek>Monday</dayOfWeek>
+            <attended>0</attended>
+            <datesAttended />
+          </Attendance>
+          <Attendance>
+            <dayOfWeek>Tuesday</dayOfWeek>
+            <attended>0</attended>
+            <datesAttended />
+          </Attendance>
+          <Attendance>
+            <dayOfWeek>Thursday</dayOfWeek>
+            <attended>1</attended>
+            <datesAttended />
+          </Attendance>
+          <Attendance>
+            <dayOfWeek>Friday</dayOfWeek>
+            <attended>1</attended>
+            <datesAttended />
+          </Attendance>
+        </attendance>
+      </Student>
+      <Student>
+        <name>Lavr</name>
+        <absentCount>5</absentCount>
+        <presentCount>19</presentCount>
+        <rainCheck>
+          <dateTime>2016-08-08T00:00:00</dateTime>
+        </rainCheck>
+        <attendance>
+          <Attendance>
+            <dayOfWeek>Monday</dayOfWeek>
+            <attended>1</attended>
+            <datesAttended />
+          </Attendance>
+          <Attendance>
+            <dayOfWeek>Tuesday</dayOfWeek>
+            <attended>0</attended>
+            <datesAttended />
+          </Attendance>
+          <Attendance>
+            <dayOfWeek>Thursday</dayOfWeek>
+            <attended>0</attended>
+            <datesAttended />
+          </Attendance>
+          <Attendance>
+            <dayOfWeek>Friday</dayOfWeek>
+            <attended>0</attended>
+            <datesAttended />
+          </Attendance>
+        </attendance>
+      </Student>
+      <Student>
+        <name>Nikita_Pogutsa</name>
+        <absentCount>4</absentCount>
+        <presentCount>23</presentCount>
+        <rainCheck>
+          <dateTime>2016-08-10T00:00:00</dateTime>
+        </rainCheck>
+        <attendance>
+          <Attendance>
+            <dayOfWeek>Monday</dayOfWeek>
+            <attended>0</attended>
+            <datesAttended />
+          </Attendance>
+          <Attendance>
+            <dayOfWeek>Tuesday</dayOfWeek>
+            <attended>0</attended>
+            <datesAttended />
+          </Attendance>
+          <Attendance>
+            <dayOfWeek>Thursday</dayOfWeek>
+            <attended>1</attended>
+            <datesAttended />
+          </Attendance>
+          <Attendance>
+            <dayOfWeek>Friday</dayOfWeek>
+            <attended>1</attended>
+            <datesAttended />
+          </Attendance>
+        </attendance>
+      </Student>
+      <Student>
+        <name>Lavr</name>
+        <absentCount>5</absentCount>
+        <presentCount>21</presentCount>
+        <rainCheck>
+          <dateTime>2016-08-08T00:00:00</dateTime>
+        </rainCheck>
+        <attendance>
+          <Attendance>
+            <dayOfWeek>Monday</dayOfWeek>
+            <attended>1</attended>
+            <datesAttended />
+          </Attendance>
+          <Attendance>
+            <dayOfWeek>Tuesday</dayOfWeek>
+            <attended>0</attended>
+            <datesAttended />
+          </Attendance>
+          <Attendance>
+            <dayOfWeek>Thursday</dayOfWeek>
+            <attended>0</attended>
+            <datesAttended />
+          </Attendance>
+          <Attendance>
+            <dayOfWeek>Friday</dayOfWeek>
+            <attended>0</attended>
+            <datesAttended />
+          </Attendance>
+        </attendance>
+      </Student>
+      <Student>
+        <name>Nikita_Pogutsa</name>
+        <absentCount>4</absentCount>
+        <presentCount>25</presentCount>
+        <rainCheck>
+          <dateTime>2016-08-10T00:00:00</dateTime>
+        </rainCheck>
+        <attendance>
+          <Attendance>
+            <dayOfWeek>Monday</dayOfWeek>
+            <attended>0</attended>
+            <datesAttended />
+          </Attendance>
+          <Attendance>
+            <dayOfWeek>Tuesday</dayOfWeek>
+            <attended>0</attended>
+            <datesAttended />
+          </Attendance>
+          <Attendance>
+            <dayOfWeek>Thursday</dayOfWeek>
+            <attended>1</attended>
+            <datesAttended />
+          </Attendance>
+          <Attendance>
+            <dayOfWeek>Friday</dayOfWeek>
+            <attended>1</attended>
+            <datesAttended />
+          </Attendance>
+        </attendance>
+      </Student>
+      <Student>
+        <name>Lavr</name>
+        <absentCount>5</absentCount>
+        <presentCount>23</presentCount>
+        <rainCheck>
+          <dateTime>2016-08-08T00:00:00</dateTime>
+        </rainCheck>
+        <attendance>
+          <Attendance>
+            <dayOfWeek>Monday</dayOfWeek>
+            <attended>1</attended>
+            <datesAttended />
+          </Attendance>
+          <Attendance>
+            <dayOfWeek>Tuesday</dayOfWeek>
+            <attended>0</attended>
+            <datesAttended />
+          </Attendance>
+          <Attendance>
+            <dayOfWeek>Thursday</dayOfWeek>
+            <attended>0</attended>
+            <datesAttended />
+          </Attendance>
+          <Attendance>
+            <dayOfWeek>Friday</dayOfWeek>
+            <attended>0</attended>
+            <datesAttended />
+          </Attendance>
+        </attendance>
+      </Student>
+      <Student>
+        <name>Nikita_Pogutsa</name>
+        <absentCount>4</absentCount>
+        <presentCount>27</presentCount>
+        <rainCheck>
+          <dateTime>2016-08-10T00:00:00</dateTime>
+        </rainCheck>
+        <attendance>
+          <Attendance>
+            <dayOfWeek>Monday</dayOfWeek>
+            <attended>0</attended>
+            <datesAttended />
+          </Attendance>
+          <Attendance>
+            <dayOfWeek>Tuesday</dayOfWeek>
+            <attended>0</attended>
+            <datesAttended />
+          </Attendance>
+          <Attendance>
+            <dayOfWeek>Thursday</dayOfWeek>
+            <attended>1</attended>
+            <datesAttended />
+          </Attendance>
+          <Attendance>
+            <dayOfWeek>Friday</dayOfWeek>
+            <attended>1</attended>
+            <datesAttended />
+          </Attendance>
+        </attendance>
+      </Student>
+      <Student>
+        <name>Lavr</name>
+        <absentCount>5</absentCount>
+        <presentCount>25</presentCount>
+        <rainCheck>
+          <dateTime>2016-08-08T00:00:00</dateTime>
+        </rainCheck>
+        <attendance>
+          <Attendance>
+            <dayOfWeek>Monday</dayOfWeek>
+            <attended>1</attended>
+            <datesAttended />
+          </Attendance>
+          <Attendance>
+            <dayOfWeek>Tuesday</dayOfWeek>
+            <attended>0</attended>
+            <datesAttended />
+          </Attendance>
+          <Attendance>
+            <dayOfWeek>Thursday</dayOfWeek>
+            <attended>0</attended>
+            <datesAttended />
+          </Attendance>
+          <Attendance>
+            <dayOfWeek>Friday</dayOfWeek>
+            <attended>0</attended>
+            <datesAttended />
+          </Attendance>
+        </attendance>
+      </Student>
+    </attendants>
+  </Day>
+  <Day>
+    <dayOfWeek>Monday</dayOfWeek>
+    <date>2016-08-11T00:00:00</date>
+    <attendants>
+      <Student>
+        <name>Nikita_Pogutsa</name>
+        <absentCount>4</absentCount>
+        <presentCount>21</presentCount>
+        <rainCheck>
+          <dateTime>2016-08-10T00:00:00</dateTime>
+        </rainCheck>
+        <attendance>
+          <Attendance>
+            <dayOfWeek>Monday</dayOfWeek>
+            <attended>0</attended>
+            <datesAttended />
+          </Attendance>
+          <Attendance>
+            <dayOfWeek>Tuesday</dayOfWeek>
+            <attended>0</attended>
+            <datesAttended />
+          </Attendance>
+          <Attendance>
+            <dayOfWeek>Thursday</dayOfWeek>
+            <attended>1</attended>
+            <datesAttended />
+          </Attendance>
+          <Attendance>
+            <dayOfWeek>Friday</dayOfWeek>
+            <attended>1</attended>
+            <datesAttended />
+          </Attendance>
+        </attendance>
+      </Student>
+      <Student>
+        <name>Nikita_Horev</name>
+        <absentCount>3</absentCount>
+        <presentCount>6</presentCount>
+        <rainCheck>
+          <dateTime>2016-08-10T00:00:00</dateTime>
+          <dateTime>2016-08-15T00:00:00</dateTime>
+          <dateTime>2016-08-20T00:00:00</dateTime>
+          <dateTime>2016-08-25T00:00:00</dateTime>
+          <dateTime>2016-08-28T00:00:00</dateTime>
+          <dateTime>2016-08-30T00:00:00</dateTime>
+        </rainCheck>
+        <attendance>
+          <Attendance>
+            <dayOfWeek>Monday</dayOfWeek>
+            <attended>1</attended>
+            <datesAttended />
+          </Attendance>
+          <Attendance>
+            <dayOfWeek>Tuesday</dayOfWeek>
+            <attended>1</attended>
+            <datesAttended />
+          </Attendance>
+          <Attendance>
+            <dayOfWeek>Thursday</dayOfWeek>
+            <attended>1</attended>
+            <datesAttended />
+          </Attendance>
+          <Attendance>
+            <dayOfWeek>Friday</dayOfWeek>
+            <attended>1</attended>
+            <datesAttended />
+          </Attendance>
+        </attendance>
+      </Student>
+      <Student>
+        <name>Nikita_Pogutsa</name>
+        <absentCount>4</absentCount>
+        <presentCount>23</presentCount>
+        <rainCheck>
+          <dateTime>2016-08-10T00:00:00</dateTime>
+        </rainCheck>
+        <attendance>
+          <Attendance>
+            <dayOfWeek>Monday</dayOfWeek>
+            <attended>0</attended>
+            <datesAttended />
+          </Attendance>
+          <Attendance>
+            <dayOfWeek>Tuesday</dayOfWeek>
+            <attended>0</attended>
+            <datesAttended />
+          </Attendance>
+          <Attendance>
+            <dayOfWeek>Thursday</dayOfWeek>
+            <attended>1</attended>
+            <datesAttended />
+          </Attendance>
+          <Attendance>
+            <dayOfWeek>Friday</dayOfWeek>
+            <attended>1</attended>
+            <datesAttended />
+          </Attendance>
+        </attendance>
+      </Student>
+      <Student>
+        <name>Nikita_Horev</name>
+        <absentCount>3</absentCount>
+        <presentCount>7</presentCount>
+        <rainCheck>
+          <dateTime>2016-08-10T00:00:00</dateTime>
+          <dateTime>2016-08-15T00:00:00</dateTime>
+          <dateTime>2016-08-20T00:00:00</dateTime>
+          <dateTime>2016-08-25T00:00:00</dateTime>
+          <dateTime>2016-08-28T00:00:00</dateTime>
+          <dateTime>2016-08-30T00:00:00</dateTime>
+        </rainCheck>
+        <attendance>
+          <Attendance>
+            <dayOfWeek>Monday</dayOfWeek>
+            <attended>1</attended>
+            <datesAttended />
+          </Attendance>
+          <Attendance>
+            <dayOfWeek>Tuesday</dayOfWeek>
+            <attended>1</attended>
+            <datesAttended />
+          </Attendance>
+          <Attendance>
+            <dayOfWeek>Thursday</dayOfWeek>
+            <attended>1</attended>
+            <datesAttended />
+          </Attendance>
+          <Attendance>
+            <dayOfWeek>Friday</dayOfWeek>
+            <attended>1</attended>
+            <datesAttended />
+          </Attendance>
+        </attendance>
+      </Student>
+      <Student>
+        <name>Nikita_Pogutsa</name>
+        <absentCount>4</absentCount>
+        <presentCount>25</presentCount>
+        <rainCheck>
+          <dateTime>2016-08-10T00:00:00</dateTime>
+        </rainCheck>
+        <attendance>
+          <Attendance>
+            <dayOfWeek>Monday</dayOfWeek>
+            <attended>0</attended>
+            <datesAttended />
+          </Attendance>
+          <Attendance>
+            <dayOfWeek>Tuesday</dayOfWeek>
+            <attended>0</attended>
+            <datesAttended />
+          </Attendance>
+          <Attendance>
+            <dayOfWeek>Thursday</dayOfWeek>
+            <attended>1</attended>
+            <datesAttended />
+          </Attendance>
+          <Attendance>
+            <dayOfWeek>Friday</dayOfWeek>
+            <attended>1</attended>
+            <datesAttended />
+          </Attendance>
+        </attendance>
+      </Student>
+      <Student>
+        <name>Nikita_Horev</name>
+        <absentCount>3</absentCount>
+        <presentCount>8</presentCount>
+        <rainCheck>
+          <dateTime>2016-08-10T00:00:00</dateTime>
+          <dateTime>2016-08-15T00:00:00</dateTime>
+          <dateTime>2016-08-20T00:00:00</dateTime>
+          <dateTime>2016-08-25T00:00:00</dateTime>
+          <dateTime>2016-08-28T00:00:00</dateTime>
+          <dateTime>2016-08-30T00:00:00</dateTime>
+        </rainCheck>
+        <attendance>
+          <Attendance>
+            <dayOfWeek>Monday</dayOfWeek>
+            <attended>1</attended>
+            <datesAttended />
+          </Attendance>
+          <Attendance>
+            <dayOfWeek>Tuesday</dayOfWeek>
+            <attended>1</attended>
+            <datesAttended />
+          </Attendance>
+          <Attendance>
+            <dayOfWeek>Thursday</dayOfWeek>
+            <attended>1</attended>
+            <datesAttended />
+          </Attendance>
+          <Attendance>
+            <dayOfWeek>Friday</dayOfWeek>
+            <attended>1</attended>
+            <datesAttended />
+          </Attendance>
+        </attendance>
+      </Student>
+      <Student>
+        <name>Nikita_Pogutsa</name>
+        <absentCount>4</absentCount>
+        <presentCount>27</presentCount>
+        <rainCheck>
+          <dateTime>2016-08-10T00:00:00</dateTime>
+        </rainCheck>
+        <attendance>
+          <Attendance>
+            <dayOfWeek>Monday</dayOfWeek>
+            <attended>0</attended>
+            <datesAttended />
+          </Attendance>
+          <Attendance>
+            <dayOfWeek>Tuesday</dayOfWeek>
+            <attended>0</attended>
+            <datesAttended />
+          </Attendance>
+          <Attendance>
+            <dayOfWeek>Thursday</dayOfWeek>
+            <attended>1</attended>
+            <datesAttended />
+          </Attendance>
+          <Attendance>
+            <dayOfWeek>Friday</dayOfWeek>
+            <attended>1</attended>
+            <datesAttended />
+          </Attendance>
+        </attendance>
+      </Student>
+      <Student>
+        <name>Nikita_Horev</name>
+        <absentCount>3</absentCount>
+        <presentCount>9</presentCount>
+        <rainCheck>
+          <dateTime>2016-08-10T00:00:00</dateTime>
+          <dateTime>2016-08-15T00:00:00</dateTime>
+          <dateTime>2016-08-20T00:00:00</dateTime>
+          <dateTime>2016-08-25T00:00:00</dateTime>
+          <dateTime>2016-08-28T00:00:00</dateTime>
+          <dateTime>2016-08-30T00:00:00</dateTime>
+        </rainCheck>
+        <attendance>
+          <Attendance>
+            <dayOfWeek>Monday</dayOfWeek>
+            <attended>1</attended>
+            <datesAttended />
+          </Attendance>
+          <Attendance>
+            <dayOfWeek>Tuesday</dayOfWeek>
+            <attended>1</attended>
+            <datesAttended />
+          </Attendance>
+          <Attendance>
+            <dayOfWeek>Thursday</dayOfWeek>
+            <attended>1</attended>
+            <datesAttended />
+          </Attendance>
+          <Attendance>
+            <dayOfWeek>Friday</dayOfWeek>
+            <attended>1</attended>
+            <datesAttended />
+          </Attendance>
+        </attendance>
+      </Student>
+    </attendants>
+  </Day>
+  <Day>
+    <dayOfWeek>Friday</dayOfWeek>
+    <date>2016-08-10T00:00:00</date>
+    <attendants>
+      <Student>
+        <name>Lavr</name>
+        <absentCount>5</absentCount>
+        <presentCount>19</presentCount>
+        <rainCheck>
+          <dateTime>2016-08-08T00:00:00</dateTime>
+        </rainCheck>
+        <attendance>
+          <Attendance>
+            <dayOfWeek>Monday</dayOfWeek>
+            <attended>1</attended>
+            <datesAttended />
+          </Attendance>
+          <Attendance>
+            <dayOfWeek>Tuesday</dayOfWeek>
+            <attended>0</attended>
+            <datesAttended />
+          </Attendance>
+          <Attendance>
+            <dayOfWeek>Thursday</dayOfWeek>
+            <attended>0</attended>
+            <datesAttended />
+          </Attendance>
+          <Attendance>
+            <dayOfWeek>Friday</dayOfWeek>
+            <attended>0</attended>
+            <datesAttended />
+          </Attendance>
+        </attendance>
+      </Student>
+      <Student>
+        <name>Max</name>
+        <absentCount>3</absentCount>
+        <presentCount>6</presentCount>
+        <rainCheck>
+          <dateTime>2016-08-08T00:00:00</dateTime>
+        </rainCheck>
+        <attendance>
+          <Attendance>
+            <dayOfWeek>Monday</dayOfWeek>
+            <attended>1</attended>
+            <datesAttended />
+          </Attendance>
+          <Attendance>
+            <dayOfWeek>Tuesday</dayOfWeek>
+            <attended>1</attended>
+            <datesAttended />
+          </Attendance>
+          <Attendance>
+            <dayOfWeek>Thursday</dayOfWeek>
+            <attended>1</attended>
+            <datesAttended />
+          </Attendance>
+          <Attendance>
+            <dayOfWeek>Friday</dayOfWeek>
+            <attended>1</attended>
+            <datesAttended />
+          </Attendance>
+        </attendance>
+      </Student>
+      <Student>
+        <name>Lavr</name>
+        <absentCount>5</absentCount>
+        <presentCount>21</presentCount>
+        <rainCheck>
+          <dateTime>2016-08-08T00:00:00</dateTime>
+        </rainCheck>
+        <attendance>
+          <Attendance>
+            <dayOfWeek>Monday</dayOfWeek>
+            <attended>1</attended>
+            <datesAttended />
+          </Attendance>
+          <Attendance>
+            <dayOfWeek>Tuesday</dayOfWeek>
+            <attended>0</attended>
+            <datesAttended />
+          </Attendance>
+          <Attendance>
+            <dayOfWeek>Thursday</dayOfWeek>
+            <attended>0</attended>
+            <datesAttended />
+          </Attendance>
+          <Attendance>
+            <dayOfWeek>Friday</dayOfWeek>
+            <attended>0</attended>
+            <datesAttended />
+          </Attendance>
+        </attendance>
+      </Student>
+      <Student>
+        <name>Max</name>
+        <absentCount>3</absentCount>
+        <presentCount>7</presentCount>
+        <rainCheck>
+          <dateTime>2016-08-08T00:00:00</dateTime>
+        </rainCheck>
+        <attendance>
+          <Attendance>
+            <dayOfWeek>Monday</dayOfWeek>
+            <attended>1</attended>
+            <datesAttended />
+          </Attendance>
+          <Attendance>
+            <dayOfWeek>Tuesday</dayOfWeek>
+            <attended>1</attended>
+            <datesAttended />
+          </Attendance>
+          <Attendance>
+            <dayOfWeek>Thursday</dayOfWeek>
+            <attended>1</attended>
+            <datesAttended />
+          </Attendance>
+          <Attendance>
+            <dayOfWeek>Friday</dayOfWeek>
+            <attended>1</attended>
+            <datesAttended />
+          </Attendance>
+        </attendance>
+      </Student>
+      <Student>
+        <name>Lavr</name>
+        <absentCount>5</absentCount>
+        <presentCount>23</presentCount>
+        <rainCheck>
+          <dateTime>2016-08-08T00:00:00</dateTime>
+        </rainCheck>
+        <attendance>
+          <Attendance>
+            <dayOfWeek>Monday</dayOfWeek>
+            <attended>1</attended>
+            <datesAttended />
+          </Attendance>
+          <Attendance>
+            <dayOfWeek>Tuesday</dayOfWeek>
+            <attended>0</attended>
+            <datesAttended />
+          </Attendance>
+          <Attendance>
+            <dayOfWeek>Thursday</dayOfWeek>
+            <attended>0</attended>
+            <datesAttended />
+          </Attendance>
+          <Attendance>
+            <dayOfWeek>Friday</dayOfWeek>
+            <attended>0</attended>
+            <datesAttended />
+          </Attendance>
+        </attendance>
+      </Student>
+      <Student>
+        <name>Max</name>
+        <absentCount>3</absentCount>
+        <presentCount>8</presentCount>
+        <rainCheck>
+          <dateTime>2016-08-08T00:00:00</dateTime>
+        </rainCheck>
+        <attendance>
+          <Attendance>
+            <dayOfWeek>Monday</dayOfWeek>
+            <attended>1</attended>
+            <datesAttended />
+          </Attendance>
+          <Attendance>
+            <dayOfWeek>Tuesday</dayOfWeek>
+            <attended>1</attended>
+            <datesAttended />
+          </Attendance>
+          <Attendance>
+            <dayOfWeek>Thursday</dayOfWeek>
+            <attended>1</attended>
+            <datesAttended />
+          </Attendance>
+          <Attendance>
+            <dayOfWeek>Friday</dayOfWeek>
+            <attended>1</attended>
+            <datesAttended />
+          </Attendance>
+        </attendance>
+      </Student>
+      <Student>
+        <name>Lavr</name>
+        <absentCount>5</absentCount>
+        <presentCount>25</presentCount>
+        <rainCheck>
+          <dateTime>2016-08-08T00:00:00</dateTime>
+        </rainCheck>
+        <attendance>
+          <Attendance>
+            <dayOfWeek>Monday</dayOfWeek>
+            <attended>1</attended>
+            <datesAttended />
+          </Attendance>
+          <Attendance>
+            <dayOfWeek>Tuesday</dayOfWeek>
+            <attended>0</attended>
+            <datesAttended />
+          </Attendance>
+          <Attendance>
+            <dayOfWeek>Thursday</dayOfWeek>
+            <attended>0</attended>
+            <datesAttended />
+          </Attendance>
+          <Attendance>
+            <dayOfWeek>Friday</dayOfWeek>
+            <attended>0</attended>
+            <datesAttended />
+          </Attendance>
+        </attendance>
+      </Student>
+      <Student>
+        <name>Max</name>
+        <absentCount>3</absentCount>
+        <presentCount>9</presentCount>
+        <rainCheck>
+          <dateTime>2016-08-08T00:00:00</dateTime>
+        </rainCheck>
+        <attendance>
+          <Attendance>
+            <dayOfWeek>Monday</dayOfWeek>
+            <attended>1</attended>
+            <datesAttended />
+          </Attendance>
+          <Attendance>
+            <dayOfWeek>Tuesday</dayOfWeek>
+            <attended>1</attended>
+            <datesAttended />
+          </Attendance>
+          <Attendance>
+            <dayOfWeek>Thursday</dayOfWeek>
+            <attended>1</attended>
+            <datesAttended />
+          </Attendance>
+          <Attendance>
+            <dayOfWeek>Friday</dayOfWeek>
+            <attended>1</attended>
+            <datesAttended />
+          </Attendance>
+        </attendance>
+      </Student>
+    </attendants>
+  </Day>
+</ArrayOfDay>
